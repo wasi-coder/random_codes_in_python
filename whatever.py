@@ -1,4 +1,6 @@
 import turtle 
+import os
+
 
 wn =turtle.Screen()
 wn.title("IDK what i am doing ")
